@@ -1,0 +1,16 @@
+requests
+telethon
+pyaes
+async_generator
+colorama
+requests
+bs4
+beautifulsoup4
+certifi
+chardet
+idna
+rsa
+urllib3
+func_timeout
+pytz
+termcolor
